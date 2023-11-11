@@ -2,6 +2,9 @@ import requests
 import string
 import warnings
 
+#Group 10 in SE6002 NTU
+#Ai Zhengjie, Song Changlin, Tao Zifeng, Tian Yunxuan
+
 warnings.filterwarnings("ignore", category=requests.packages.urllib3.exceptions.InsecureRequestWarning)
 urlhhh="0a99005a031509ad80428a27006d0081"
 
